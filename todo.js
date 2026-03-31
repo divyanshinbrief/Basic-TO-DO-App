@@ -1,3 +1,6 @@
+// Dom manipulation for Todo App
+
+
 let list = [];
 let button = document.querySelector("button");
 let input = document.querySelector("input");
