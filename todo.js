@@ -1,3 +1,5 @@
+//  This is a new feature and I am adding it to the project in Feature2 branch.
+
 // Dom manipulation for Todo App
 
 
@@ -105,6 +107,9 @@ function showNotCompletedList(){
         }
      })
 }
+
+
+
 
 
 
