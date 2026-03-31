@@ -1,5 +1,7 @@
 //  This is a new feature and I am adding (New Change) it to the project in Feature2 branch.
-//  This is a new feature and I am adding (another new change)it to the project in Feature2 branch.
+//  This is a new feature and I am adding (another new change)it to the project in Feature2 branch. 
+
+// just playing with conflicts and pull request in github.
 
 // Dom manipulation for Todo App
 
